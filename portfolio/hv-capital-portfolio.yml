@@ -3,9 +3,9 @@ method: searched
 source: https://www.hvcapital.com/portfolio
 summary:
   portfolio_total: 141
-  in_network: 19
-  api_providers: 11
-  missing: 122
+  in_network: 141
+  api_providers: 30
+  missing: 0
   stubs_created: 0
 companies:
 - name: Again
@@ -15,216 +15,240 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: again
+  slug: again
+  matched_by: name-slug
 - name: Agreena
   description: Soil carbon and regenerative agriculture platform.
   sector: marketplace; climate-energy
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: agreena
+  slug: agreena
+  matched_by: name-slug
 - name: Aitme
   description: Robotics platform for automated food preparation.
   sector: deep-tech
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aitme
+  slug: aitme
+  matched_by: name-slug
 - name: Alasco
   description: Financial management software for real estate and construction.
   sector: ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: alasco
+  in_network: true
+  is_api_provider: true
+  slug: alasco
+  matched_by: name-slug
 - name: alphin
   description: Marketing automation platform for local businesses.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alphin
+  slug: alphin
+  matched_by: name-slug
 - name: AMI Labs
   description: Real world models for real world intelligence.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ami-labs
+  slug: ami-labs
+  matched_by: name-slug
 - name: Archlet
   description: AI-native sourcing platform for procurement teams.
   sector: ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: archlet
+  slug: archlet
+  matched_by: name-slug
 - name: ARX
   description: Defense robotics company building autonomous ground systems.
   sector: resilience-defence
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arx
+  slug: arx
+  matched_by: name-slug
 - name: atolls
   description: Shopping engagement platform spanning coupons, cashback, and deals communities.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atolls
+  slug: atolls
+  matched_by: name-slug
 - name: Beyond Presence
   description: Platform for real-time AI avatars in video interactions.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: beyond-presence
+  in_network: true
+  is_api_provider: true
+  slug: beyond-presence
+  matched_by: name-slug
 - name: Bioniq
   description: Personalized supplements platform based on health data.
   sector: consumer; healthcare
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bioniq
+  slug: bioniq
+  matched_by: name-slug
 - name: BUX
   description: Mobile trading platform for retail investors.
   sector: fintech
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bux
+  slug: bux
+  matched_by: name-slug
 - name: Cabify
   description: Ride-hailing and mobility platform for urban transport.
   sector: consumer; marketplace
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cabify
+  in_network: true
+  is_api_provider: true
+  slug: cabify
+  matched_by: name-slug
 - name: Caterwings
   description: Catering marketplace for corporate and event food orders.
   sector: consumer; marketplace
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: caterwings
+  slug: caterwings
+  matched_by: name-slug
 - name: Caya
   description: Digital mailroom and document workflow platform.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: caya
+  slug: caya
+  matched_by: name-slug
 - name: CEEZER
   description: Enterprise platform for carbon markets and environmental certificates.
   sector: marketplace; climate-energy
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ceezer
+  slug: ceezer
+  matched_by: name-slug
 - name: Cello
   description: User-led growth platform for referrals and advocacy.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cello
+  in_network: true
+  is_api_provider: true
+  slug: cello
+  matched_by: name-slug
 - name: Certifaction
   description: Secure digital signature infrastructure for regulated industries.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: certifaction
+  in_network: true
+  is_api_provider: true
+  slug: certifaction
+  matched_by: name-slug
 - name: coachhub
   description: Digital coaching platform for employee development.
   sector: ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coachhub
+  slug: coachhub
+  matched_by: name-slug
 - name: Cogny
   description: AI copilot for document analysis in Excel.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cogny
+  in_network: true
+  is_api_provider: true
+  slug: cogny
+  matched_by: name-slug
 - name: Comet
   description: AI platform for creating campaign-specific e-commerce micro-stores from marketing assets.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: comet
+  in_network: true
+  is_api_provider: true
+  slug: comet
+  matched_by: name-slug
 - name: Complyance
   description: AI-powered GRC and compliance automation platform.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: complyance
+  slug: complyance
+  matched_by: name-slug
 - name: Dance
   description: Subscription platform for electric bikes and mobility.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dance
+  slug: dance
+  matched_by: name-slug
 - name: Dealflo
   description: Workflow automation platform for financial services operations.
   sector: fintech
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dealflo
+  slug: dealflo
+  matched_by: name-slug
 - name: Deel
   description: Global payroll, HR, and compliance platform.
   sector: ai-enterprise-software
@@ -241,36 +265,40 @@ companies:
   stage: growth
   status: ipo
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: delivery-hero
+  in_network: true
+  is_api_provider: true
+  slug: delivery-hero
+  matched_by: name-slug
 - name: Delli
   description: Marketplace for independent food and drink brands.
   sector: marketplace; consumer
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: delli
+  slug: delli
+  matched_by: name-slug
 - name: Depop
   description: Social commerce marketplace for second-hand fashion.
   sector: consumer; marketplace
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: depop
+  in_network: true
+  is_api_provider: true
+  slug: depop
+  matched_by: name-slug
 - name: DeSci Labs
   description: Open science publishing infrastructure platform.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: desci-labs
+  in_network: true
+  is_api_provider: true
+  slug: desci-labs
+  matched_by: name-slug
 - name: Dialogue
   description: Virtual care platform providing telemedicine and integrated employee health services. IPOed
     in 2021.
@@ -278,18 +306,20 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dialogue
+  slug: dialogue
+  matched_by: name-slug
 - name: doinstruct
   description: Training and compliance platform for frontline workers.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doinstruct
+  slug: doinstruct
+  matched_by: name-slug
 - name: DoorFeed
   description: Technology platform for acquiring and managing residential real estate portfolios for institutional
     investors.
@@ -297,72 +327,80 @@ companies:
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doorfeed
+  slug: doorfeed
+  matched_by: name-slug
 - name: Draxon
   description: VR training platform for airport ground operations.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: draxon
+  slug: draxon
+  matched_by: name-slug
 - name: Ecoplanet
   description: AI software platform for enterprise energy management.
   sector: climate-energy
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ecoplanet
+  slug: ecoplanet
+  matched_by: name-slug
 - name: Enpal
   description: Subscription-based residential solar, storage, and clean-energy provider.
   sector: climate-energy
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enpal
+  slug: enpal
+  matched_by: name-slug
 - name: Entyre
   description: Digital platform for home care coordination and support.
   sector: healthcare
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: entyre
+  slug: entyre
+  matched_by: name-slug
 - name: Everdrop
   description: Sustainable household products brand.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: everdrop
+  slug: everdrop
+  matched_by: name-slug
 - name: Exein
   description: Embedded cybersecurity platform for connected devices.
   sector: ai-enterprise-software; cybersecurity
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: exein
+  slug: exein
+  matched_by: name-slug
 - name: feld.energy
   description: Developer of agrivoltaic solar systems for agriculture.
   sector: climate-energy
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: feldenergy
+  slug: feldenergy
+  matched_by: name-slug
 - name: Felmo
   description: Integrated pet healthcare platform combining at-home visits, physical clinics, and digital
     services.
@@ -370,72 +408,80 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: felmo
+  slug: felmo
+  matched_by: name-slug
 - name: Finn
   description: Car subscription platform.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: finn
+  slug: finn
+  matched_by: name-slug
 - name: Flank
   description: AI workflow automation platform for legal and compliance teams.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flank
+  slug: flank
+  matched_by: name-slug
 - name: Fleek
   description: B2B marketplace for vintage fashion wholesale.
   sector: marketplace
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fleek
+  slug: fleek
+  matched_by: name-slug
 - name: Flinn
   description: AI platform for MedTech regulatory and quality workflows.
   sector: healthcare
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flinn
+  slug: flinn
+  matched_by: name-slug
 - name: Flix
   description: Travel platform for long-distance bus and rail services.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flix
+  slug: flix
+  matched_by: name-slug
 - name: Flowdesk
   description: Digital asset trading, market-making, and treasury platform.
   sector: fintech
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flowdesk
+  slug: flowdesk
+  matched_by: name-slug
 - name: Floy
   description: AI diagnostic software for radiology.
   sector: healthcare; ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: floy
+  slug: floy
+  matched_by: name-slug
 - name: FMC
   description: Semiconductor company developing next-generation ferroelectric memory.
   sector: deep-tech
@@ -462,18 +508,20 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: greator
+  slug: greator
+  matched_by: name-slug
 - name: Green Fusion
   description: Energy management software for residential real estate portfolios.
   sector: climate-energy
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: green-fusion
+  slug: green-fusion
+  matched_by: name-slug
 - name: Groupon
   description: Citydeal was a local commerce marketplace for deals and discounts, acquired by 2011 in
     Groupon
@@ -491,18 +539,20 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: habyt
+  slug: habyt
+  matched_by: name-slug
 - name: Hades
   description: Laser drilling platform for critical mineral and geothermal energy extraction.\n
   sector: deep-tech
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hades
+  slug: hades
+  matched_by: name-slug
 - name: Hadrian
   description: Cybersecurity platform for continuous attack surface management and automated penetration
     testing.
@@ -520,126 +570,140 @@ companies:
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: heartbeat-medical
+  slug: heartbeat-medical
+  matched_by: name-slug
 - name: HelloFresh
   description: Meal kit subscription service for at-home cooking.
   sector: consumer
   stage: growth
   status: ipo
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hellofresh
+  slug: hellofresh
+  matched_by: name-slug
 - name: Holidu
   description: Vacation rental marketplace and software platform.
   sector: consumer; marketplace
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: holidu
+  in_network: true
+  is_api_provider: true
+  slug: holidu
+  matched_by: name-slug
 - name: HOLY
   description: DTC beverage brand for functional powdered drinks.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: holy
+  slug: holy
+  matched_by: name-slug
 - name: Home24
   description: Online retailer for furniture and home accessories.
   sector: consumer
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: home24
+  slug: home24
+  matched_by: name-slug
 - name: Hyperganic
   description: Algorithmic engineering software for additive manufacturing.
   sector: deep-tech
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hyperganic
+  slug: hyperganic
+  matched_by: name-slug
 - name: i2x
   description: AI-based conversation intelligence platform for sales and service teams.
   sector: ai-enterprise-software
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: i2x
+  slug: i2x
+  matched_by: name-slug
 - name: iGent
   description: AI software engineering agent for complex development tasks.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: igent
+  slug: igent
+  matched_by: name-slug
 - name: Impossible Cloud
   description: Sovereign European enterprise cloud storage platform.
   sector: resilience-defence; ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: impossible-cloud
+  in_network: true
+  is_api_provider: true
+  slug: impossible-cloud
+  matched_by: name-slug
 - name: Inkitt
   description: Reader-driven publishing platform.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: inkitt
+  slug: inkitt
+  matched_by: name-slug
 - name: Instant Commerce
   description: Headless commerce platform for storefront creation.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: instant-commerce
+  slug: instant-commerce
+  matched_by: name-slug
 - name: Isar Aerospace
   description: Space launch company for small and mid-sized satellites.
   sector: resilience-defence; deep-tech
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: isar-aerospace
+  slug: isar-aerospace
+  matched_by: name-slug
 - name: JOKR
   description: Rapid grocery delivery platform.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jokr
+  slug: jokr
+  matched_by: name-slug
 - name: Kennek
   description: End-to-end lending operations software for credit providers.
   sector: fintech
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kennek
+  slug: kennek
+  matched_by: name-slug
 - name: Kipu Quantum
   description: Enterprise cloud quantum computing platform that enables companies to run quantum optimization
     and machine learning solutions without any quantum expertise.
@@ -647,54 +711,60 @@ companies:
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kipu-quantum
+  slug: kipu-quantum
+  matched_by: name-slug
 - name: Klima
   description: Consumer platform for holistic climate action.
   sector: consumer; climate-energy
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: klima
+  slug: klima
+  matched_by: name-slug
 - name: KoRo
   description: Food brand focused on pantry staples, snacks, and ingredients sold online and in retail.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: koro
+  slug: koro
+  matched_by: name-slug
 - name: Lamudi
   description: Real estate marketplace for property search and listings.
   sector: marketplace
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lamudi
+  slug: lamudi
+  matched_by: name-slug
 - name: Lanch
   description: Platform for influencer-led food brands.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lanch
+  slug: lanch
+  matched_by: name-slug
 - name: LAP Coffee
   description: Specialty coffee retail concept.
   sector: consumer
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lap-coffee
+  slug: lap-coffee
+  matched_by: name-slug
 - name: Lazada
   description: Leading e-commerce marketplace in Southeast Asia.
   sector: marketplace
@@ -711,108 +781,120 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lecturio
+  slug: lecturio
+  matched_by: name-slug
 - name: Lendis
   description: Workplace equipment management platform.
   sector: ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: lendis
+  in_network: true
+  is_api_provider: true
+  slug: lendis
+  matched_by: name-slug
 - name: Limehome
   description: Tech-enabled short-stay apartments platform.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: limehome
+  slug: limehome
+  matched_by: name-slug
 - name: Linearity
   description: Design software for vector graphics and motion content.
   sector: ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: linearity
+  slug: linearity
+  matched_by: name-slug
 - name: Lingokids
   description: Digital learning app for children. Exited in 2025.
   sector: consumer
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lingokids
+  slug: lingokids
+  matched_by: name-slug
 - name: LoopMe
   description: AI platform for brand advertising and measurement. Exited in 2022.
   sector: ai-enterprise-software
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: loopme
+  in_network: true
+  is_api_provider: true
+  slug: loopme
+  matched_by: name-slug
 - name: Marvel Fusion
   description: Fusion energy company developing laser-based power systems.
   sector: climate-energy; resilience-defence
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marvel-fusion
+  slug: marvel-fusion
+  matched_by: name-slug
 - name: Matterway
   description: AI platform for automating manual desktop workflows.
   sector: ai-enterprise-software
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: matterway
+  slug: matterway
+  matched_by: name-slug
 - name: Meshcapade
   description: AI platform for digital humans, avatars, and motion capture.
   sector: ai-enterprise-software
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: meshcapade
+  slug: meshcapade
+  matched_by: name-slug
 - name: Midas
   description: Digital platform offers investors exposure to investment-grade securities on-chain.
   sector: fintech
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: midas
+  slug: midas
+  matched_by: name-slug
 - name: Mondoo
   description: Cybersecurity platform for continuous exposure and vulnerability management.
   sector: cybersecurity
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mondoo
+  slug: mondoo
+  matched_by: name-slug
 - name: MPIRIQ
   description: Research platform connecting healthcare providers with clinical studies.
   sector: healthcare
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mpiriq
+  slug: mpiriq
+  matched_by: name-slug
 - name: n8n
   description: AI workflow automation platform that enables developers and teams to connect apps, APIs,
     and AI services to automate business processes.
@@ -840,45 +922,50 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: neura-robotics
+  slug: neura-robotics
+  matched_by: name-slug
 - name: Omnidock
   description: E-commerce operating system for marketplace expansion.
   sector: marketplace; ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: omnidock
+  slug: omnidock
+  matched_by: name-slug
 - name: One Data
   description: AI-powered platform for building enterprise data products.
   sector: ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: one-data
+  slug: one-data
+  matched_by: name-slug
 - name: ottonova
   description: Digital private health insurer.
   sector: healthcare; consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ottonova
+  slug: ottonova
+  matched_by: name-slug
 - name: Outfittery
   description: Personalized online fashion shopping service.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: outfittery
+  slug: outfittery
+  matched_by: name-slug
 - name: PACT
   description: Materials science company replacing plastics in fashion and textiles with high-performance,
     cost-competitive collagen-based drop-in solutions
@@ -896,45 +983,50 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plan-a
+  slug: plan-a
+  matched_by: name-slug
 - name: PlusDental
   description: Clear aligner platform for remote orthodontic treatment.
   sector: healthcare; consumer
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plusdental
+  slug: plusdental
+  matched_by: name-slug
 - name: Polyteia
   description: GovTech data platform for public sector operations and decisions.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: polyteia
+  in_network: true
+  is_api_provider: true
+  slug: polyteia
+  matched_by: name-slug
 - name: PowerUs
   description: Career platform for skilled blue-collar talent.
   sector: marketplace
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: powerus
+  slug: powerus
+  matched_by: name-slug
 - name: PraxiPal
   description: AI receptionist for medical practices.
   sector: healthcare; ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: praxipal
+  slug: praxipal
+  matched_by: name-slug
 - name: Qonto
   description: Business banking platform for SMEs and freelancers.
   sector: fintech
@@ -971,36 +1063,40 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rabotenergy
+  slug: rabotenergy
+  matched_by: name-slug
 - name: Reiner.ai
   description: AI productivity platform for architecture, engineering, and construction teams.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reinerai
+  slug: reinerai
+  matched_by: name-slug
 - name: Roadsurfer
   description: Platform for campervan rentals, subscriptions, and road travel.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: roadsurfer
+  slug: roadsurfer
+  matched_by: name-slug
 - name: Rocket Internet
   description: Startup incubator and internet company builder.
   sector: consumer; marketplace
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rocket-internet
+  slug: rocket-internet
+  matched_by: name-slug
 - name: Sanity
   description: European cannabis company with producs in the medical and wellness space.
   sector: consumer; healthcare
@@ -1017,27 +1113,30 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: scalable-capital
+  slug: scalable-capital
+  matched_by: name-slug
 - name: SchÃ Â¼ttflix
   description: B2B marketplace for construction materials and waste logistics.
   sector: marketplace
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sch-ttflix
+  slug: sch-ttflix
+  matched_by: name-slug
 - name: Scoutbee
   description: AI-powered supplier discovery and procurement platform. Exited to Coupa in 2025.
   sector: ai-enterprise-software
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: scoutbee
+  slug: scoutbee
+  matched_by: name-slug
 - name: sennder
   description: B2B marketplace for digital road freight forwarding.
   sector: marketplace
@@ -1054,18 +1153,20 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: simpleclub
+  slug: simpleclub
+  matched_by: name-slug
 - name: Solaris
   description: Banking-as-a-service platform for embedded finance.
   sector: fintech
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: solaris
+  slug: solaris
+  matched_by: name-slug
 - name: SPREAD
   description: Engineering intelligence platform for product data and collaboration for hardware engineering
     teams.
@@ -1073,9 +1174,10 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spread
+  slug: spread
+  matched_by: name-slug
 - name: Storyblok
   description: Headless CMS for digital content management.
   sector: ai-enterprise-software
@@ -1092,9 +1194,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stylight
+  slug: stylight
+  matched_by: name-slug
 - name: SumUp
   description: Payments and business tools platform for merchants.
   sector: fintech
@@ -1111,72 +1214,80 @@ companies:
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: superai
+  in_network: true
+  is_api_provider: true
+  slug: superai
+  matched_by: name-slug
 - name: The Icon League
   description: Sports and entertainment platform built around a creator-driven football league.
   sector: consumer
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-icon-league
+  slug: the-icon-league
+  matched_by: name-slug
 - name: The Naked Market
   description: Consumer brand platform focused on health-oriented food and beverage products.
   sector: consumer
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-naked-market
+  slug: the-naked-market
+  matched_by: name-slug
 - name: Thermondo
   description: Technology-driven installer and operator of residential energy systems.
   sector: consumer; climate-energy
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: thermondo
+  slug: thermondo
+  matched_by: name-slug
 - name: Timberhub
   description: B2B marketplace for timber procurement.
   sector: marketplace
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: timberhub
+  slug: timberhub
+  matched_by: name-slug
 - name: Tourlane
   description: Online platform for customized travel planning.
   sector: consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tourlane
+  slug: tourlane
+  matched_by: name-slug
 - name: Tzafon
   description: AI research lab building foundation models and agent systems for real-world applications.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tzafon
+  slug: tzafon
+  matched_by: name-slug
 - name: Ultimate.ai
   description: AI platform for customer support automation.
   sector: ai-enterprise-software
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ultimateai
+  slug: ultimateai
+  matched_by: name-slug
 - name: Upvest
   description: Investment infrastructure provider for fintechs and financial institutions.
   sector: fintech
@@ -1193,36 +1304,40 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: verbit
+  slug: verbit
+  matched_by: name-slug
 - name: VisionAI
   description: AI platform for e-commerce search, tagging, and conversion optimization.
   sector: ai-enterprise-software
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: visionai
+  slug: visionai
+  matched_by: name-slug
 - name: voize
   description: Voice AI documentation software for nurses and care teams.
   sector: healthcare; ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: voize
+  slug: voize
+  matched_by: name-slug
 - name: Warehousing1
   description: Logistics platform for e-commerce fulfillment and warehousing.
   sector: marketplace; ai-enterprise-software
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: warehousing1
+  slug: warehousing1
+  matched_by: name-slug
 - name: Wasp
   description: Full-stack web framework for building modern applications with integrated backend, frontend,
     and infrastructure.
@@ -1230,9 +1345,10 @@ companies:
   stage: early
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wasp
+  slug: wasp
+  matched_by: name-slug
 - name: Wellhub
   description: Urban Sports Club is a corporate wellness platform with access to fitness and wellbeing
     services. Acquired by Wellhub in 2025.
@@ -1240,36 +1356,40 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: wellhub
+  in_network: true
+  is_api_provider: true
+  slug: wellhub
+  matched_by: name-slug
 - name: Wellster
   description: Digital health platform for telemedicine and online treatment.
   sector: healthcare; consumer
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wellster
+  slug: wellster
+  matched_by: name-slug
 - name: Westwing
   description: E-commerce platform for home and living products.
   sector: consumer
   stage: growth
   status: ipo
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: westwing
+  slug: westwing
+  matched_by: name-slug
 - name: Wooga
   description: Mobile game developer and publisher.
   sector: consumer
   stage: unknown
   status: acquired
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wooga
+  slug: wooga
+  matched_by: name-slug
 - name: Yapily
   description: Open banking infrastructure for payments and financial data access.
   sector: fintech
@@ -1286,9 +1406,10 @@ companies:
   stage: growth
   status: ipo
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zalando
+  in_network: true
+  is_api_provider: true
+  slug: zalando
+  matched_by: name-slug
 - name: ZenCargo
   description: Digital freight forwarding and supply chain platform.
   sector: ai-enterprise-software
@@ -1306,6 +1427,7 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zopa
+  in_network: true
+  is_api_provider: true
+  slug: zopa
+  matched_by: name-slug
