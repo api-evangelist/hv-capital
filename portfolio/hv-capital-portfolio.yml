@@ -3,9 +3,9 @@ method: searched
 source: https://www.hvcapital.com/portfolio
 summary:
   portfolio_total: 141
-  in_network: 138
+  in_network: 139
   api_providers: 28
-  missing: 3
+  missing: 2
   stubs_created: 0
 companies:
 - name: Again
@@ -567,6 +567,8 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: fmc
+  url: https://www.ferroelectric-memory.com/
+  x-url-source: web search 2026-10-18
 - name: Framer
   description: No-code website design and publishing platform.
   sector: ai-enterprise-software
@@ -1303,9 +1305,12 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: scha-a1-4ttflix
+  url: https://www.schuettflix.com/global/en/
+  x-url-source: web search 2026-10-18
+  slug: schuettflix
+  matched_by: domain
 - name: Scoutbee
   description: AI-powered supplier discovery and procurement platform. Exited to Coupa in 2025.
   sector: ai-enterprise-software
