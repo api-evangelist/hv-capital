@@ -1,4 +1,25 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: hv-capital
-leads: []
+leads:
+- name: Deel
+  url: ''
+  suggested_slug: deel
+  sector: ai-enterprise-software
+  source_vc: hv-capital
+  source: https://www.hvcapital.com/portfolio
+  stub_created: false
+- name: FMC
+  url: ''
+  suggested_slug: fmc
+  sector: deep-tech
+  source_vc: hv-capital
+  source: https://www.hvcapital.com/portfolio
+  stub_created: false
+- name: SchÃ Â¼ttflix
+  url: ''
+  suggested_slug: scha-a1-4ttflix
+  sector: marketplace
+  source_vc: hv-capital
+  source: https://www.hvcapital.com/portfolio
+  stub_created: false
