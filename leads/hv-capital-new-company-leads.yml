@@ -2,13 +2,6 @@ generated: '2026-10-18'
 method: derived
 source_vc: hv-capital
 leads:
-- name: Deel
-  url: ''
-  suggested_slug: deel
-  sector: ai-enterprise-software
-  source_vc: hv-capital
-  source: https://www.hvcapital.com/portfolio
-  stub_created: false
 - name: FMC
   url: https://www.ferroelectric-memory.com/
   suggested_slug: fmc

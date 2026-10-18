@@ -3,9 +3,9 @@ method: searched
 source: https://www.hvcapital.com/portfolio
 summary:
   portfolio_total: 141
-  in_network: 139
-  api_providers: 28
-  missing: 2
+  in_network: 140
+  api_providers: 29
+  missing: 1
   stubs_created: 0
 companies:
 - name: Again
@@ -290,10 +290,12 @@ companies:
   stage: growth
   status: active
   source: https://www.hvcapital.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: deel
-  x-url-candidate: https://www.deel.com/
+  in_network: true
+  is_api_provider: true
+  url: https://www.deel.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: deel-com
+  matched_by: domain
 - name: Delivery Hero
   description: Online food delivery marketplace and platform.
   sector: consumer; marketplace
