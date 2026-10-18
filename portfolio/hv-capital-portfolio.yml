@@ -18,7 +18,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: again
-  matched_by: name-slug
+  matched_by: domain
+  url: https://again.bio
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Agreena
   description: Soil carbon and regenerative agriculture platform.
   sector: marketplace; climate-energy
@@ -28,7 +30,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: agreena
-  matched_by: name-slug
+  matched_by: domain
+  url: https://agreena.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Aitme
   description: Robotics platform for automated food preparation.
   sector: deep-tech
@@ -49,6 +53,7 @@ companies:
   is_api_provider: true
   slug: alasco
   matched_by: name-slug
+  x-url-candidate: https://www.alasco.com/
 - name: alphin
   description: Marketing automation platform for local businesses.
   sector: ai-enterprise-software
@@ -58,7 +63,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: alphin
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.alphin.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: AMI Labs
   description: Real world models for real world intelligence.
   sector: ai-enterprise-software
@@ -78,7 +85,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: archlet
-  matched_by: name-slug
+  matched_by: domain
+  url: https://archlet.io/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: ARX
   description: Defense robotics company building autonomous ground systems.
   sector: resilience-defence
@@ -98,7 +107,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: atolls
-  matched_by: name-slug
+  matched_by: domain
+  url: https://atolls.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Beyond Presence
   description: Platform for real-time AI avatars in video interactions.
   sector: ai-enterprise-software
@@ -108,7 +119,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: beyond-presence
-  matched_by: name-slug
+  matched_by: domain
+  url: https://docs.bey.dev/get-started
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Bioniq
   description: Personalized supplements platform based on health data.
   sector: consumer; healthcare
@@ -119,6 +132,7 @@ companies:
   is_api_provider: false
   slug: bioniq
   matched_by: name-slug
+  x-url-candidate: https://bioniq.io
 - name: BUX
   description: Mobile trading platform for retail investors.
   sector: fintech
@@ -138,7 +152,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: cabify
-  matched_by: name-slug
+  matched_by: domain
+  url: https://cabify.com/es
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Caterwings
   description: Catering marketplace for corporate and event food orders.
   sector: consumer; marketplace
@@ -158,7 +174,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: caya
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.caya.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: CEEZER
   description: Enterprise platform for carbon markets and environmental certificates.
   sector: marketplace; climate-energy
@@ -168,7 +186,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: ceezer
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.ceezer.earth/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Cello
   description: User-led growth platform for referrals and advocacy.
   sector: ai-enterprise-software
@@ -178,7 +198,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: cello
-  matched_by: name-slug
+  matched_by: domain
+  url: https://cello.so/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Certifaction
   description: Secure digital signature infrastructure for regulated industries.
   sector: ai-enterprise-software
@@ -188,7 +210,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: certifaction
-  matched_by: name-slug
+  matched_by: domain
+  url: https://certifaction.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: coachhub
   description: Digital coaching platform for employee development.
   sector: ai-enterprise-software
@@ -198,7 +222,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: coachhub
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.coachhub.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Cogny
   description: AI copilot for document analysis in Excel.
   sector: ai-enterprise-software
@@ -208,7 +234,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: cogny
-  matched_by: name-slug
+  matched_by: domain
+  url: https://cogny.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Comet
   description: AI platform for creating campaign-specific e-commerce micro-stores from marketing assets.
   sector: ai-enterprise-software
@@ -218,7 +246,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: comet
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.comet.com/site/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Complyance
   description: AI-powered GRC and compliance automation platform.
   sector: ai-enterprise-software
@@ -228,7 +258,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: complyance
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.complyance.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Dance
   description: Subscription platform for electric bikes and mobility.
   sector: consumer
@@ -238,7 +270,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: dance
-  matched_by: name-slug
+  matched_by: domain
+  url: https://dance.co
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Dealflo
   description: Workflow automation platform for financial services operations.
   sector: fintech
@@ -249,6 +283,7 @@ companies:
   is_api_provider: false
   slug: dealflo
   matched_by: name-slug
+  x-url-candidate: https://dealflo.io
 - name: Deel
   description: Global payroll, HR, and compliance platform.
   sector: ai-enterprise-software
@@ -258,6 +293,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: deel
+  x-url-candidate: https://www.deel.com/
 - name: Delivery Hero
   description: Online food delivery marketplace and platform.
   sector: consumer; marketplace
@@ -267,7 +303,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: delivery-hero
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.deliveryhero.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Delli
   description: Marketplace for independent food and drink brands.
   sector: marketplace; consumer
@@ -277,7 +315,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: delli
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.delli.market/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Depop
   description: Social commerce marketplace for second-hand fashion.
   sector: consumer; marketplace
@@ -288,6 +328,7 @@ companies:
   is_api_provider: true
   slug: depop
   matched_by: name-slug
+  x-url-candidate: https://www.depop.com/
 - name: DeSci Labs
   description: Open science publishing infrastructure platform.
   sector: ai-enterprise-software
@@ -297,7 +338,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: desci-labs
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.desci.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Dialogue
   description: Virtual care platform providing telemedicine and integrated employee health services. IPOed
     in 2021.
@@ -308,7 +351,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: dialogue
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.dialogue.co/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: doinstruct
   description: Training and compliance platform for frontline workers.
   sector: ai-enterprise-software
@@ -318,7 +363,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: doinstruct
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.doinstruct.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: DoorFeed
   description: Technology platform for acquiring and managing residential real estate portfolios for institutional
     investors.
@@ -329,7 +376,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: doorfeed
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.doorfeed.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Draxon
   description: VR training platform for airport ground operations.
   sector: ai-enterprise-software
@@ -339,7 +388,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: draxon
-  matched_by: name-slug
+  matched_by: domain
+  url: https://draxon.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Ecoplanet
   description: AI software platform for enterprise energy management.
   sector: climate-energy
@@ -349,7 +400,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: ecoplanet
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.ecoplanet.tech
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Enpal
   description: Subscription-based residential solar, storage, and clean-energy provider.
   sector: climate-energy
@@ -359,7 +412,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: enpal
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.enpal.de
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Entyre
   description: Digital platform for home care coordination and support.
   sector: healthcare
@@ -369,7 +424,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: entyre
-  matched_by: name-slug
+  matched_by: domain
+  url: https://entyrecare.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Everdrop
   description: Sustainable household products brand.
   sector: consumer
@@ -379,7 +436,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: everdrop
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.everdrop.de/en
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Exein
   description: Embedded cybersecurity platform for connected devices.
   sector: ai-enterprise-software; cybersecurity
@@ -389,7 +448,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: exein
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.exein.io/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: feld.energy
   description: Developer of agrivoltaic solar systems for agriculture.
   sector: climate-energy
@@ -399,7 +460,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: feldenergy
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.feld.energy/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Felmo
   description: Integrated pet healthcare platform combining at-home visits, physical clinics, and digital
     services.
@@ -410,7 +473,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: felmo
-  matched_by: name-slug
+  matched_by: domain
+  url: https://felmo.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Finn
   description: Car subscription platform.
   sector: consumer
@@ -420,7 +485,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: finn
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.finn.com/de-DE
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Flank
   description: AI workflow automation platform for legal and compliance teams.
   sector: ai-enterprise-software
@@ -430,7 +497,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: flank
-  matched_by: name-slug
+  matched_by: domain
+  url: https://flank.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Fleek
   description: B2B marketplace for vintage fashion wholesale.
   sector: marketplace
@@ -440,7 +509,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: fleek
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.joinfleek.com/home
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Flinn
   description: AI platform for MedTech regulatory and quality workflows.
   sector: healthcare
@@ -450,7 +521,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: flinn
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.flinn.ai
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Flix
   description: Travel platform for long-distance bus and rail services.
   sector: consumer
@@ -459,8 +532,10 @@ companies:
   source: https://www.hvcapital.com/portfolio
   in_network: true
   is_api_provider: false
-  slug: flix
-  matched_by: name-slug
+  slug: flixbus
+  matched_by: domain
+  url: https://www.flixbus.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Flowdesk
   description: Digital asset trading, market-making, and treasury platform.
   sector: fintech
@@ -470,7 +545,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: flowdesk
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.flowdesk.co
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Floy
   description: AI diagnostic software for radiology.
   sector: healthcare; ai-enterprise-software
@@ -499,7 +576,9 @@ companies:
   slug: framer
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.framer.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Greator
   description: Digital education and coaching platform for personal and professional growth.
   sector: consumer
@@ -509,7 +588,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: greator
-  matched_by: name-slug
+  matched_by: domain
+  url: https://greator.com/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Green Fusion
   description: Energy management software for residential real estate portfolios.
   sector: climate-energy
@@ -519,7 +600,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: green-fusion
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.green-fusion.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Groupon
   description: Citydeal was a local commerce marketplace for deals and discounts, acquired by 2011 in
     Groupon
@@ -530,7 +613,9 @@ companies:
   slug: groupon
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.groupon.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Habyt
   description: Flexible housing and co-living platform.
   sector: consumer
@@ -540,7 +625,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: habyt
-  matched_by: name-slug
+  matched_by: domain
+  url: https://habyt.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Hades
   description: Laser drilling platform for critical mineral and geothermal energy extraction.\n
   sector: deep-tech
@@ -550,7 +637,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: hades
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hades.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Hadrian
   description: Cybersecurity platform for continuous attack surface management and automated penetration
     testing.
@@ -561,7 +650,9 @@ companies:
   slug: hadrian
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hadrian.co
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Heartbeat Medical
   description: Platform for collecting and analyzing patient-reported outcomes in healthcare.
   sector: healthcare
@@ -571,7 +662,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: heartbeat-medical
-  matched_by: name-slug
+  matched_by: domain
+  url: https://heartbeat-med.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: HelloFresh
   description: Meal kit subscription service for at-home cooking.
   sector: consumer
@@ -581,7 +674,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: hellofresh
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hellofresh.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Holidu
   description: Vacation rental marketplace and software platform.
   sector: consumer; marketplace
@@ -591,7 +686,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: holidu
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.holidu.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: HOLY
   description: DTC beverage brand for functional powdered drinks.
   sector: consumer
@@ -601,7 +698,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: holy
-  matched_by: name-slug
+  matched_by: domain
+  url: https://de.holy.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Home24
   description: Online retailer for furniture and home accessories.
   sector: consumer
@@ -621,7 +720,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: hyperganic
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hyperganic.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: i2x
   description: AI-based conversation intelligence platform for sales and service teams.
   sector: ai-enterprise-software
@@ -641,7 +742,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: igent
-  matched_by: name-slug
+  matched_by: domain
+  url: https://igent.ai
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Impossible Cloud
   description: Sovereign European enterprise cloud storage platform.
   sector: resilience-defence; ai-enterprise-software
@@ -651,7 +754,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: impossible-cloud
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.impossiblecloud.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Inkitt
   description: Reader-driven publishing platform.
   sector: consumer
@@ -661,7 +766,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: inkitt
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.inkitt.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Instant Commerce
   description: Headless commerce platform for storefront creation.
   sector: ai-enterprise-software
@@ -672,6 +779,7 @@ companies:
   is_api_provider: false
   slug: instant-commerce
   matched_by: name-slug
+  x-url-candidate: https://instantcommerce.io
 - name: Isar Aerospace
   description: Space launch company for small and mid-sized satellites.
   sector: resilience-defence; deep-tech
@@ -681,7 +789,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: isar-aerospace
-  matched_by: name-slug
+  matched_by: domain
+  url: https://isaraerospace.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: JOKR
   description: Rapid grocery delivery platform.
   sector: consumer
@@ -691,7 +801,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: jokr
-  matched_by: name-slug
+  matched_by: domain
+  url: https://jokr.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Kennek
   description: End-to-end lending operations software for credit providers.
   sector: fintech
@@ -701,7 +813,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: kennek
-  matched_by: name-slug
+  matched_by: domain
+  url: https://kennek.io
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Kipu Quantum
   description: Enterprise cloud quantum computing platform that enables companies to run quantum optimization
     and machine learning solutions without any quantum expertise.
@@ -722,7 +836,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: klima
-  matched_by: name-slug
+  matched_by: domain
+  url: https://klima.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: KoRo
   description: Food brand focused on pantry staples, snacks, and ingredients sold online and in retail.
   sector: consumer
@@ -732,7 +848,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: koro
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.koro.com/bede
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Lamudi
   description: Real estate marketplace for property search and listings.
   sector: marketplace
@@ -752,7 +870,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: lanch
-  matched_by: name-slug
+  matched_by: domain
+  url: https://lanch.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: LAP Coffee
   description: Specialty coffee retail concept.
   sector: consumer
@@ -762,7 +882,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: lap-coffee
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.lap.coffee/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Lazada
   description: Leading e-commerce marketplace in Southeast Asia.
   sector: marketplace
@@ -782,7 +904,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: lecturio
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.lecturio.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Lendis
   description: Workplace equipment management platform.
   sector: ai-enterprise-software
@@ -792,7 +916,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: lendis
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.lendis.io
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Limehome
   description: Tech-enabled short-stay apartments platform.
   sector: consumer
@@ -802,7 +928,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: limehome
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.limehome.com/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Linearity
   description: Design software for vector graphics and motion content.
   sector: ai-enterprise-software
@@ -812,7 +940,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: linearity
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.linearity.io/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Lingokids
   description: Digital learning app for children. Exited in 2025.
   sector: consumer
@@ -822,7 +952,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: lingokids
-  matched_by: name-slug
+  matched_by: domain
+  url: https://lingokids.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: LoopMe
   description: AI platform for brand advertising and measurement. Exited in 2022.
   sector: ai-enterprise-software
@@ -833,6 +965,7 @@ companies:
   is_api_provider: true
   slug: loopme
   matched_by: name-slug
+  x-url-candidate: https://loopme.ai/
 - name: Marvel Fusion
   description: Fusion energy company developing laser-based power systems.
   sector: climate-energy; resilience-defence
@@ -842,7 +975,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: marvel-fusion
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.marvelfusion.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Matterway
   description: AI platform for automating manual desktop workflows.
   sector: ai-enterprise-software
@@ -852,7 +987,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: matterway
-  matched_by: name-slug
+  matched_by: domain
+  url: https://matterway.io
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Meshcapade
   description: AI platform for digital humans, avatars, and motion capture.
   sector: ai-enterprise-software
@@ -862,7 +999,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: meshcapade
-  matched_by: name-slug
+  matched_by: domain
+  url: https://meshcapade.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Midas
   description: Digital platform offers investors exposure to investment-grade securities on-chain.
   sector: fintech
@@ -873,6 +1012,7 @@ companies:
   is_api_provider: false
   slug: midas
   matched_by: name-slug
+  x-url-candidate: https://www.midas.com/
 - name: Mondoo
   description: Cybersecurity platform for continuous exposure and vulnerability management.
   sector: cybersecurity
@@ -882,7 +1022,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: mondoo
-  matched_by: name-slug
+  matched_by: domain
+  url: https://mondoo.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: MPIRIQ
   description: Research platform connecting healthcare providers with clinical studies.
   sector: healthcare
@@ -892,7 +1034,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: mpiriq
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.mpiriq.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: n8n
   description: AI workflow automation platform that enables developers and teams to connect apps, APIs,
     and AI services to automate business processes.
@@ -913,7 +1057,9 @@ companies:
   slug: nabla
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.nabla.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: NEURA Robotics
   description: Cognitive robotics platform for industrial and service applications.
   sector: ai-enterprise-software; deep-tech
@@ -923,7 +1069,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: neura-robotics
-  matched_by: name-slug
+  matched_by: domain
+  url: https://neura-robotics.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Omnidock
   description: E-commerce operating system for marketplace expansion.
   sector: marketplace; ai-enterprise-software
@@ -933,7 +1081,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: omnidock
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.omnidock.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: One Data
   description: AI-powered platform for building enterprise data products.
   sector: ai-enterprise-software
@@ -943,7 +1093,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: one-data
-  matched_by: name-slug
+  matched_by: domain
+  url: https://onedata.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: ottonova
   description: Digital private health insurer.
   sector: healthcare; consumer
@@ -953,7 +1105,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: ottonova
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.ottonova.de
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Outfittery
   description: Personalized online fashion shopping service.
   sector: consumer
@@ -963,7 +1117,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: outfittery
-  matched_by: name-slug
+  matched_by: domain
+  url: https://outfittery.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: PACT
   description: Materials science company replacing plastics in fashion and textiles with high-performance,
     cost-competitive collagen-based drop-in solutions
@@ -974,7 +1130,9 @@ companies:
   slug: pact
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://pact.io
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Plan A
   description: Carbon accounting and decarbonization software for enterprises. Acquired by Diginex.
   sector: climate-energy
@@ -984,7 +1142,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: plan-a
-  matched_by: name-slug
+  matched_by: domain
+  url: https://plana.earth
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: PlusDental
   description: Clear aligner platform for remote orthodontic treatment.
   sector: healthcare; consumer
@@ -1004,7 +1164,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: polyteia
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.polyteia.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: PowerUs
   description: Career platform for skilled blue-collar talent.
   sector: marketplace
@@ -1014,7 +1176,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: powerus
-  matched_by: name-slug
+  matched_by: domain
+  url: https://powerus.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: PraxiPal
   description: AI receptionist for medical practices.
   sector: healthcare; ai-enterprise-software
@@ -1034,7 +1198,9 @@ companies:
   slug: qonto
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://qonto.com/en
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Quandoo
   description: Restaurant reservation and guest management platform.
   sector: consumer; marketplace
@@ -1045,6 +1211,8 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: name-slug
+  url: https://www.quandoo.de/important-update
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Quantum Systems
   description: Defense technology company building autonomous systems across domains.
   sector: resilience-defence
@@ -1054,7 +1222,9 @@ companies:
   slug: quantum-systems
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://quantum-systems.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: rabot.energy
   description: Digital energy provider with dynamic electricity tariffs.
   sector: consumer
@@ -1064,7 +1234,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: rabotenergy
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.rabot.energy/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Reiner.ai
   description: AI productivity platform for architecture, engineering, and construction teams.
   sector: ai-enterprise-software
@@ -1074,7 +1246,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: reinerai
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.reiner.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Roadsurfer
   description: Platform for campervan rentals, subscriptions, and road travel.
   sector: consumer
@@ -1084,7 +1258,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: roadsurfer
-  matched_by: name-slug
+  matched_by: domain
+  url: https://roadsurfer.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Rocket Internet
   description: Startup incubator and internet company builder.
   sector: consumer; marketplace
@@ -1094,7 +1270,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: rocket-internet
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.rocket-internet.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Sanity
   description: European cannabis company with producs in the medical and wellness space.
   sector: consumer; healthcare
@@ -1104,7 +1282,9 @@ companies:
   slug: sanity
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sanity.io
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Scalable Capital
   description: Digital investment and wealth management platform.
   sector: fintech; consumer
@@ -1114,7 +1294,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: scalable-capital
-  matched_by: name-slug
+  matched_by: domain
+  url: https://de.scalable.capital/en
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: SchÃ Â¼ttflix
   description: B2B marketplace for construction materials and waste logistics.
   sector: marketplace
@@ -1133,7 +1315,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: scoutbee
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.scoutbee.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: sennder
   description: B2B marketplace for digital road freight forwarding.
   sector: marketplace
@@ -1143,7 +1327,9 @@ companies:
   slug: sennder
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sennder.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Simpleclub
   description: Digital learning platform for vocational training and workforce development.
   sector: ai-enterprise-software
@@ -1153,7 +1339,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: simpleclub
-  matched_by: name-slug
+  matched_by: domain
+  url: https://simpleclub.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Solaris
   description: Banking-as-a-service platform for embedded finance.
   sector: fintech
@@ -1163,7 +1351,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: solaris
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.solarisgroup.com/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: SPREAD
   description: Engineering intelligence platform for product data and collaboration for hardware engineering
     teams.
@@ -1174,7 +1364,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: spread
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.spread.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Storyblok
   description: Headless CMS for digital content management.
   sector: ai-enterprise-software
@@ -1184,7 +1376,9 @@ companies:
   slug: storyblok
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.storyblok.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Stylight
   description: Fashion discovery and shopping platform.
   sector: consumer
@@ -1194,7 +1388,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: stylight
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.stylight.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: SumUp
   description: Payments and business tools platform for merchants.
   sector: fintech
@@ -1205,6 +1401,7 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: name-slug
+  x-url-candidate: https://www.sumup.com/en-us/
 - name: Super.ai
   description: Intelligent document processing platform.
   sector: ai-enterprise-software
@@ -1214,7 +1411,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: superai
-  matched_by: name-slug
+  matched_by: domain
+  url: https://super.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: The Icon League
   description: Sports and entertainment platform built around a creator-driven football league.
   sector: consumer
@@ -1224,7 +1423,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: the-icon-league
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.theiconleague.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: The Naked Market
   description: Consumer brand platform focused on health-oriented food and beverage products.
   sector: consumer
@@ -1234,7 +1435,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: the-naked-market
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.thenakedmarket.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Thermondo
   description: Technology-driven installer and operator of residential energy systems.
   sector: consumer; climate-energy
@@ -1244,7 +1447,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: thermondo
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.thermondo.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Timberhub
   description: B2B marketplace for timber procurement.
   sector: marketplace
@@ -1254,7 +1459,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: timberhub
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.timberhub.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Tourlane
   description: Online platform for customized travel planning.
   sector: consumer
@@ -1264,7 +1471,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: tourlane
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.tourlane.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Tzafon
   description: AI research lab building foundation models and agent systems for real-world applications.
   sector: ai-enterprise-software
@@ -1275,6 +1484,7 @@ companies:
   is_api_provider: false
   slug: tzafon
   matched_by: name-slug
+  x-url-candidate: https://www.tzafon.ai/
 - name: Ultimate.ai
   description: AI platform for customer support automation.
   sector: ai-enterprise-software
@@ -1285,6 +1495,7 @@ companies:
   is_api_provider: false
   slug: ultimateai
   matched_by: name-slug
+  x-url-candidate: https://www.ultimate.com/
 - name: Upvest
   description: Investment infrastructure provider for fintechs and financial institutions.
   sector: fintech
@@ -1294,7 +1505,9 @@ companies:
   slug: upvest
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://upvest.co/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: VerbIT
   description: AI-powered transcription and captioning platform.
   sector: ai-enterprise-software
@@ -1304,7 +1517,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: verbit
-  matched_by: name-slug
+  matched_by: domain
+  url: https://verbit.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: VisionAI
   description: AI platform for e-commerce search, tagging, and conversion optimization.
   sector: ai-enterprise-software
@@ -1315,6 +1530,7 @@ companies:
   is_api_provider: false
   slug: visionai
   matched_by: name-slug
+  x-url-candidate: https://www.visionai.co/
 - name: voize
   description: Voice AI documentation software for nurses and care teams.
   sector: healthcare; ai-enterprise-software
@@ -1324,7 +1540,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: voize
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.voize.ai/us
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Warehousing1
   description: Logistics platform for e-commerce fulfillment and warehousing.
   sector: marketplace; ai-enterprise-software
@@ -1334,7 +1552,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: warehousing1
-  matched_by: name-slug
+  matched_by: domain
+  url: https://warehousing1.com/en
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Wasp
   description: Full-stack web framework for building modern applications with integrated backend, frontend,
     and infrastructure.
@@ -1345,7 +1565,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: wasp
-  matched_by: name-slug
+  matched_by: domain
+  url: https://wasp.sh/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Wellhub
   description: Urban Sports Club is a corporate wellness platform with access to fitness and wellbeing
     services. Acquired by Wellhub in 2025.
@@ -1356,7 +1578,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: wellhub
-  matched_by: name-slug
+  matched_by: domain
+  url: https://wellhub.com/en-us/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Wellster
   description: Digital health platform for telemedicine and online treatment.
   sector: healthcare; consumer
@@ -1366,7 +1590,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: wellster
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.wellsterhealth.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Westwing
   description: E-commerce platform for home and living products.
   sector: consumer
@@ -1376,7 +1602,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: westwing
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.westwing.de
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Wooga
   description: Mobile game developer and publisher.
   sector: consumer
@@ -1386,7 +1614,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: wooga
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.wooga.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Yapily
   description: Open banking infrastructure for payments and financial data access.
   sector: fintech
@@ -1396,7 +1626,9 @@ companies:
   slug: yapily
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.yapily.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Zalando
   description: Online fashion and lifestyle marketplace across Europe.
   sector: consumer; marketplace
@@ -1406,7 +1638,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: zalando
-  matched_by: name-slug
+  matched_by: domain
+  url: https://corporate.zalando.com/en
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: ZenCargo
   description: Digital freight forwarding and supply chain platform.
   sector: ai-enterprise-software
@@ -1416,7 +1650,9 @@ companies:
   slug: zencargo
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.zencargo.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Zopa
   description: Rvvup developed an embedded finance and payments platform for merchants, acquired in 2025
     by Zopa
